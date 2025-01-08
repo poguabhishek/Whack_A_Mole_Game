@@ -5,7 +5,7 @@ Created a Whack-A-Mole web game using HTML, CSS, and JavaScript. The game offers
 
 
 ## 🚀 About Me
-My name is Srinivasa Rao
+My name is Abhishek 
 
 I'm a full Java stack developer...
 
